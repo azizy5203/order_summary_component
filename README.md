@@ -27,6 +27,7 @@ Users should be able to:
 ### Screenshot
 
 ![Project_Screenshot](./order_summary_component/Projcet_screenshot.png)
+<img src="./order_summary_component/Projcet_screenshot.png" alt="drawing" width="200" height="200"/>
 
 ### Links
 
