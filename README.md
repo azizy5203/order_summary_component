@@ -16,11 +16,11 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-component-using-html-and-css-q1C0iq24a)
+- Live Site URL: [Github Pages](https://azizy5203.github.io/order_summary_component/)
 
 ## Author
 
-- Facebook - [Youssuf Abdulaziz](https://www.facebook.com/azizyoussuf)
+- Facebook - [@Youssuf Abdulaziz](https://www.facebook.com/azizyoussuf)
 - Frontend Mentor - [@Youssef Abdulaziz](https://www.frontendmentor.io/profile/azizy5203)
 - Behance - [@youssuf abdulaziz](https://www.behance.net/azizy5203)
