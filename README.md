@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Project_Screenshot](./order_summary_component/Projcet screenshot.png)
+![Project_Screenshot]('./order_summary_component/Projcet screenshot.png')
 
 
 ### Links
