@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Project_Screenshot](/Projcet_screenshot.png | width=100)
+![Project_Screenshot](/Projcet_screenshot.png)
 
 ### Links
 
